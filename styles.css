@@ -45,6 +45,11 @@ code {
   justify-content: space-between;
 }
 
+.todo:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
 .input {
   width: 100%;
   box-sizing: border-box;
